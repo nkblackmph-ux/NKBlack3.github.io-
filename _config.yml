@@ -1,0 +1,13 @@
+title: "N.K. Black's Portfolio"
+description: "My professional portfolio website"
+baseurl: "" 
+url: ""
+
+# Build settings
+theme: jekyll-theme-primer
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
